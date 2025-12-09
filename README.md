@@ -54,7 +54,7 @@ Effectuées :
 
 L'application interactive est accessible ici :
 
-**https://hashimi-barry-mini-projec-q09v63iy73-streamlit-app-f1bvvy.streamlit.app**
+**https://uk7adegenarcouyqg5ckqt.streamlit.app/**
 
 Fonctionnalités :
 - Aperçu du dataset nettoyé
@@ -120,5 +120,6 @@ Mini-projet réalisé par :
 - **Cours : Introduction au Langage Python et à l'environnement**
 
 ---
+
 
 
