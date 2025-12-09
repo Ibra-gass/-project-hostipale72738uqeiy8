@@ -9,29 +9,6 @@ Il inclut :
 
 ---
 
-## Contenu du dépôt
-
-mini-projec-q09v63iy73/
-│
-├─ streamlit_app.py # application web
-├─ scripts/ # fonctions réutilisables
-│ ├─ cleaning.py
-│ ├─ analytics.py
-│ ├─ viz.py
-│ └─ init.py
-├─ data/
-│ ├─ healthcare_dataset.csv
-│ └─ healthcare_dataset_clean.csv (généré automatiquement)
-├─ .streamlit/
-│ └─ config.toml
-├─ EDA_hospital.ipynb # notebook exploratoire
-├─ Rapport_EDA_Hospital.pdf
-├─ requirements.txt
-└─ README.md
-
-
----
-
 ## Objectifs du projet
 
 - Nettoyer et structurer les données hospitalières
@@ -143,3 +120,4 @@ Mini-projet réalisé par :
 - **Cours : Introduction au Langage Python et à l'environnement**
 
 ---
+
