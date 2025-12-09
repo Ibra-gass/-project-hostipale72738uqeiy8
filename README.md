@@ -115,9 +115,10 @@ Le rapport `Rapport_EDA_Hospital.pdf` présente :
 ## Auteur
 
 Mini-projet réalisé par :
-- **Ibrahima Gassama (code_permanent)**
+- **Ibrahima Gassama (GASI06070000)**
 - **Université du Québec à Chicoutimi (UQAC)**
 - **Cours : Introduction au Langage Python et à l'environnement**
 
 ---
+
 
